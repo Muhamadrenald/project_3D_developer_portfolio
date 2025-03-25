@@ -21,7 +21,6 @@
     "react-dom": "^18.3.1",
     "react-parallax-tilt": "^1.7.287",
     "react-router-dom": "^6.8.1",
-    "react-tilt": "^0.1.4",
     "react-toastify": "^11.0.5",
     "react-type-animation": "^3.2.0",
     "react-typical": "^0.1.3",
